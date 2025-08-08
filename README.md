@@ -62,6 +62,6 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="www.linkedin.com/in/mohamed-kamal90" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />www.linkedin.com/in/mohamed-kamal90</a>
+<a href="www.linkedin.com/in/mohamed-kamal90" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="maohamed.ahemd05@eng-st.cu.edu.eg"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-email-1818372-1541480.png" alt="email" height="30" width="40" /></a>
 </p>

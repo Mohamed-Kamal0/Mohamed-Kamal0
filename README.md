@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Graduate of **Angela Yu's Full-Stack Development Bootcamp**
 - 🛠️ Building **Frontend**, **Backend**, and **AI/ML** projects
-- 📂 Check out my portfolio on [GitHub](https://github.com/yourusername)
+- 📂 Check out my portfolio on [GitHub](https://github.com/Mohamed-Kamal0)
 - 🌱 Currently exploring **Deep Learning** & **MERN stack**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, Python, CNNs**
 - ⚡ Fun fact: I love creating projects that mix **tech + creativity**

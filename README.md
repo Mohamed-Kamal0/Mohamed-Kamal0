@@ -48,20 +48,8 @@
 - 🌍 **Family Travel** – Travel memories sharing app
 - 🔗 **Permalist** – Persistent todo list with MongoDB
 - 🔒 **Secrets App** – Authentication & security practice
-- 🧠 **Six-Class Image Classifier** – CNN model for image classification
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-<a href="www.linkedin.com/in/mohamed-kamal90" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="maohamed.ahemd05@eng-st.cu.edu.eg"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-email-1818372-1541480.png" alt="email" height="30" width="40" /></a>
-</p>
+### 🧠 AI / Machine Learning
+- 🧠 **Six-Class Image Classifier** – CNN model for image classification  
+- 🔍 **Statistical Pattern Recognition for Malware & Phishing URL Detection** –  
+  Ranked 🏅 **5th in TCCD Competition**. Classifies URLs into (Defacement, benign , malware, phishing , spam)

@@ -62,6 +62,18 @@
 - 🔍 **Statistical Pattern Recognition for Malware & Phishing URL Detection** –  
   Ranked 🏅 **5th in TCCD Competition**.  
   Classifies URLs into **Defacement, Benign, Malware, Phishing, Spam**
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Kamal0&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Kamal0&layout=compact&theme=radical" alt="Top languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Kamal0&theme=radical" alt="GitHub streak"/>
+</p>
 
 ---
 

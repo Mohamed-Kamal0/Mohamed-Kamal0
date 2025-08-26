@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 - 🎓 Graduate of **Angela Yu's Full-Stack Development Bootcamp**
 - 🛠️ Building **Frontend**, **Backend**, and **AI/ML** projects
-- 📂 Check out my portfolio on [GitHub](https://github.com/Mohamed-Kamal0)
+- 📂 Portfolio on [GitHub](https://github.com/Mohamed-Kamal0)
 - 🌱 Currently exploring **Deep Learning** & **MERN stack**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, Python, CNNs**
 - ⚡ Fun fact: I love creating projects that mix **tech + creativity**
@@ -16,14 +16,13 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/></a>
@@ -37,19 +36,37 @@
 ## 📌 Featured Projects
 
 ### 🌐 Frontend
-- 🎵 **Drum Kit** – Interactive drum machine using JS events
-- 🎮 **Simon Game** – Memory challenge game with sound & animations
-- 🐶 **TinDog** – Tinder for dogs built with Bootstrap
-- 📝 **Keeper App** – Google Keep clone using React
-- ✅ **Todo List (React)** – Task manager with state handling
+- 🎵 **Drum Kit** – Interactive drum machine using **JavaScript events**
+- 🎮 **Simon Game** – Memory challenge game with **sounds & animations**
+- 🐶 **TinDog** – Tinder for dogs built with **Bootstrap**
+- 📝 **Keeper App** – Google Keep clone using **React**
+- ✅ **Todo List (React)** – Task manager with **state management**
 
 ### ⚙️ Backend
-- 📖 **Blogs App** – Full CRUD blogging platform
-- 🌍 **Family Travel** – Travel memories sharing app
-- 🔗 **Permalist** – Persistent todo list with MongoDB
+- 📖 **Blogs App** – Full CRUD blogging platform with **Express & MongoDB**
+- 🌍 **Family Travel** – Social app for sharing travel memories
+- 🔗 **Permalist** – Persistent todo list with **MongoDB backend**
 - 🔒 **Secrets App** – Authentication & security practice
 
+### 📂 Full-Stack Projects
+- 📊 **Project Manager** –  
+  A full-featured **MERN stack project management system**.  
+  - 👥 Manage teams & projects  
+  - ✅ Task assignment & tracking  
+  - 📅 Deadlines & progress monitoring  
+  - 🔐 User authentication & role-based access  
+  - 🚀 Tech Stack: **React, Node.js, Express, MongoDB, TailwindCSS**
+
 ### 🧠 AI / Machine Learning
-- 🧠 **Six-Class Image Classifier** – CNN model for image classification  
+- 🧠 **Six-Class Image Classifier** – CNN model for **image classification**
 - 🔍 **Statistical Pattern Recognition for Malware & Phishing URL Detection** –  
-  Ranked 🏅 **5th in TCCD Competition**. Classifies URLs into (Defacement, benign , malware, phishing , spam)
+  Ranked 🏅 **5th in TCCD Competition**.  
+  Classifies URLs into **Defacement, Benign, Malware, Phishing, Spam**
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-kamal0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:mohamed.kamal@example.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+</p>

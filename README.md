@@ -7,7 +7,7 @@
 - 🎓 Graduate of **Angela Yu's Full-Stack Development Bootcamp**
 - 🛠️ Building **Frontend**, **Backend**, and **AI/ML** projects
 - 📂 Portfolio on [GitHub](https://github.com/Mohamed-Kamal0)
-- 🌱 Currently exploring **Deep Learning** & **MERN stack**
+- 🌱 Currently exploring **Deep Learning**, **React Ecosystem**, and **MERN stack**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, Python, CNNs**
 - ⚡ Fun fact: I love creating projects that mix **tech + creativity**
 
@@ -35,12 +35,17 @@
 
 ## 📌 Featured Projects
 
-### 🌐 Frontend
+### 🌐 Frontend (React)
 - 🎵 **Drum Kit** – Interactive drum machine using **JavaScript events**
 - 🎮 **Simon Game** – Memory challenge game with **sounds & animations**
 - 🐶 **TinDog** – Tinder for dogs built with **Bootstrap**
 - 📝 **Keeper App** – Google Keep clone using **React**
 - ✅ **Todo List (React)** – Task manager with **state management**
+- 🍕 **Fast React Pizza** – Online pizza ordering app with **React Router** & **Redux Toolkit**
+- ❓ **React Quiz** – Interactive quiz app using **useReducer**
+- 🌍 **Travel List** – Pack-and-go checklist using **React state**
+- 🍿 **usePopcorn** – Movie discovery app with **custom hooks & APIs**
+- 🗺️ **WorldWise** – Location tracker & travel log with **React Router & Context API**
 
 ### ⚙️ Backend
 - 📖 **Blogs App** – Full CRUD blogging platform with **Express & MongoDB**
@@ -62,6 +67,7 @@
 - 🔍 **Statistical Pattern Recognition for Malware & Phishing URL Detection** –  
   Ranked 🏅 **5th in TCCD Competition**.  
   Classifies URLs into **Defacement, Benign, Malware, Phishing, Spam**
+
 ---
 
 ## 📊 GitHub Stats & Activity

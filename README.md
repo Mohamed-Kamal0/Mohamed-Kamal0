@@ -7,8 +7,8 @@
 - 🎓 Graduate of **Angela Yu's Full-Stack Development Bootcamp**
 - 🛠️ Building **Frontend**, **Backend**, and **AI/ML** projects
 - 📂 Portfolio on [GitHub](https://github.com/Mohamed-Kamal0)
-- 🌱 Currently exploring **Deep Learning**, **React Ecosystem**, and **MERN stack**
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, Python, CNNs**
+- 🌱 Currently exploring **Deep Learning**, **React Ecosystem (Redux, Context API, TailwindCSS)**, and **MERN stack**
+- 💬 Ask me about **JavaScript, React, Redux, Context API, Node.js, Express, MongoDB, Python, CNNs**
 - ⚡ Fun fact: I love creating projects that mix **tech + creativity**
 
 ---
@@ -20,6 +20,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
@@ -41,11 +43,11 @@
 - 🐶 **TinDog** – Tinder for dogs built with **Bootstrap**
 - 📝 **Keeper App** – Google Keep clone using **React**
 - ✅ **Todo List (React)** – Task manager with **state management**
-- 🍕 **Fast React Pizza** – Online pizza ordering app with **React Router** & **Redux Toolkit**
+- 🍕 **Fast React Pizza** – Online pizza ordering app with **React Router**, **Redux Toolkit**, and **TailwindCSS**
 - ❓ **React Quiz** – Interactive quiz app using **useReducer**
 - 🌍 **Travel List** – Pack-and-go checklist using **React state**
 - 🍿 **usePopcorn** – Movie discovery app with **custom hooks & APIs**
-- 🗺️ **WorldWise** – Location tracker & travel log with **React Router & Context API**
+- 🗺️ **WorldWise** – Location tracker & travel log with **React Router** & **Context API**
 
 ### ⚙️ Backend
 - 📖 **Blogs App** – Full CRUD blogging platform with **Express & MongoDB**
@@ -60,7 +62,7 @@
   - ✅ Task assignment & tracking  
   - 📅 Deadlines & progress monitoring  
   - 🔐 User authentication & role-based access  
-  - 🚀 Tech Stack: **React, Node.js, Express, MongoDB, TailwindCSS**
+  - 🚀 Tech Stack: **React, Node.js, Express, MongoDB, TailwindCSS, Redux**
 
 ### 🧠 AI / Machine Learning
 - 🧠 **Six-Class Image Classifier** – CNN model for **image classification**

@@ -111,19 +111,6 @@
 
 ---
 
-## 📊 GitHub Stats & Engine Health
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Kamal0&show_icons=true&theme=radical" alt="Mohamed's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Kamal0&layout=compact&theme=radical" alt="Mohamed's Top languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mohamed-Kamal0&theme=radical" alt="Mohamed's GitHub streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 If you are looking for an analytical engineering mind capable of moving fluently from high-level user architectures down to low-level memory optimizations, let's build something exceptional[cite: 1].
 
